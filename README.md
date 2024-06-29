@@ -2,4 +2,4 @@
 ## Contributors
   *  Professor Darren Osier
   *  Faith Siebert
-  *  
+    
